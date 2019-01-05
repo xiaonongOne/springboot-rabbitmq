@@ -18,7 +18,7 @@ public class NeoSender {
     @Autowired
     private AmqpTemplate rabbitTemplate;
 
-    public void send(int i) {
+    public void send (int i) {
         String context = "spirng boot neo queue"+" ****** "+i;
         System.out.println("Sender1 : " + context);
         this.rabbitTemplate.convertAndSend("neo", context);
