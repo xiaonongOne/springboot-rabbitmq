@@ -5,7 +5,7 @@ import org.springframework.amqp.rabbit.annotation.RabbitListener;
 import org.springframework.stereotype.Component;
 
 /**
- * @ProjectName: demo
+ * @ProjectName: springboot-rabbitmq
  * @Package: com.example.rabbbit
  * @ClassName: HelloReceiver
  * @Description: 接收者

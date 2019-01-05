@@ -6,7 +6,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
 /**
- * @ProjectName: demo
+ * @ProjectName: springboot-rabbitmq
  * @Package: com.example.object
  * @ClassName: ObjectSender
  * @Description: 对象发送者

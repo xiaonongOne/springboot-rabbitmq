@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.example.springboot-rabbitmq;
 
 import com.example.fanout.FanoutSender;
 import com.example.many.NeoSender;

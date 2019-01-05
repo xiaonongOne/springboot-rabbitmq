@@ -5,7 +5,7 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 /**
- * @ProjectName: demo
+ * @ProjectName: springboot-rabbitmq
  * @Package: com.example.rabbbit
  * @ClassName: RabbitConfig
  * @Description: 消息队列

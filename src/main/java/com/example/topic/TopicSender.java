@@ -5,7 +5,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
 /**
- * @ProjectName: demo
+ * @ProjectName: springboot-rabbitmq
  * @Package: com.example.topic
  * @ClassName: TopicSender
  * @Description:

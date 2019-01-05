@@ -5,7 +5,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
 /**
- * @ProjectName: demo
+ * @ProjectName: springboot-rabbitmq
  * @Package: com.example.fanout
  * @ClassName: FanoutSender
  * @Description: 广播类

@@ -3,7 +3,7 @@ package com.example.bean;
 import java.io.Serializable;
 
 /**
- * @ProjectName: demo
+ * @ProjectName: springboot-rabbitmq
  * @Package: com.example.bean
  * @ClassName: User
  * @Description: 用户类
